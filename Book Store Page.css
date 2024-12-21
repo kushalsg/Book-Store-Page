@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-conatiner {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 120vh;
+    font-family: Bree Serif;
+    padding: 20px;
+}
+
+.bg-F-heading {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.bg-F-cd-conatiner {
+    background-color: #e6f6ff;
+    height: 40vh;
+    border-radius: 20px;
+}
+
+.bg-F-cd-text {
+    text-align: left;
+    margin: 20px;
+}
+
+.bg-F-cd-heading {
+    color: #183b56;
+    font-size: 30px;
+}
+
+.bg-F-cd-F-para {
+    color: #06070d;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+.bg-F-cd-S-para {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.bg-F-cd-btn-button {
+    background-color: #007bff;
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.bg-S-heading {
+    color: #ffffff;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bottom-conatiner {
+    margin-bottom: 10px;
+}
+
+.bt-F-heading {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.bt-F-para {
+    color: #9aa5b1;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.btm-btn-button {
+    background-color: #007bff;
+    color: #ffffff;
+    font-family: Roboto;
+    margin-left: 10px;
+}
+
+.btm-S-conatiner {
+    margin-top: 10px;
+}
+
+.bt-S-heading {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.bt-S-para {
+    color: #9aa5b1;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.btm-btn-button {
+    background-color: #007bff;
+    color: #ffffff;
+    font-family: Roboto;
+    margin-left: 10px;
+}
+
+.Wings-bg-conatiner {
+    background-color: #1b1b1b;
+    height: 110vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.Wings-heading-text {
+    margin-top: 10px;
+    color: #ffffff;
+    font-family: Bree Serif;
+}
+
+.Wings-para-text {
+    margin-top: 10px;
+    color: #9aa5b1;
+    font-family: Bree Serif;
+    font-size: 12px;
+}
+
+.Wings-Spara-text {
+    text-align: left;
+    margin-top: 10px;
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 12px;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.F-button {
+    background-color: #fbb03b;
+    border-radius: 10px;
+}
+
+.F-btn-button {
+    background-color: #007bff;
+    color: #ffffff;
+    font-family: Roboto;
+    border-radius: 10px;
+}
